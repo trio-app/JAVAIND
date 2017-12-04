@@ -13,8 +13,9 @@
                   <span style="color: #4286f4"><b>Perencanaan</b></span>adalah salah satu klausul yang termasuk di dalam ISO 9001 : 2015, dan di dalam klausul inilah pemikiran berbasis risiko itu akan di bahas, sebelum kita melanjutkan pembahasan ini kita terlebih dahulu memahami arti kata perencanaa sebagai berikut :
               </p>
               <p>
-                  - <span style="color: #4286f4"><b>Perencanaan</b></span> secara garis besar diartikan seagai proses mendefinisikan tujuan organisasi, membuat strategi untuk mencapai tujuan itu, dan mengembangkan rencana aktivitas kerja organisasi. Pada dasarnya yang dimaksud 
-                 <span style="color: #4286f4"><b>perencanaan</b></span> yaitu memberi jawaban atas pertanyaan-pertanyaan apa (what), siapa (who), kapan (when), dimana (where), mengapa (why), dan bagaimana (how). Jadi perencanaan yaitu fungsi manajemen puncak yang berhubungan dengan pemilihan dari sekumpulan kegiatan-kegiatan dan pemutusan tujuan-tujuan, kebijakan - kebijakan serta program - program yang dilakukan. Perencanaan merupakan proses terpenting dari semua fungsi manajemen karena tanpa perencanaan apa yang dilakukan akan berjalan tidak maksimal.
+                  <span style="color: #4286f4"><b>Perencanaan</b></span> secara garis besar diartikan seagai proses mendefinisikan tujuan organisasi, membuat strategi untuk mencapai tujuan itu, dan mengembangkan rencana aktivitas kerja organisasi. Pada dasarnya yang dimaksud 
+                 <span style="color: #4286f4"><b>perencanaan</b></span> yaitu memberi jawaban atas pertanyaan-pertanyaan apa (what), siapa (who), kapan (when), dimana (where), mengapa (why), dan bagaimana (how). Jadi perencanaan yaitu fungsi manajemen puncak yang berhubungan dengan pemilihan dari sekumpulan 
+                 kegiatan-kegiatan dan pemutusan tujuan-tujuan, kebijakan - kebijakan serta program - program yang dilakukan. Perencanaan merupakan proses terpenting dari semua fungsi manajemen karena tanpa perencanaan apa yang dilakukan akan berjalan tidak maksimal.
                  <br>
                  Di dalam ISO 9001 : 2015 sudah ditentukan pada klausul <span style="color: #4286f4"><b> 6.</b></span> tentang <span style="color: #4286f4"><b>Perencanaan</b></span> :
               </p>
