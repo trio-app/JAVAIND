@@ -216,7 +216,7 @@ header{
     border-top: 10px solid #ebebeb;
     border-bottom: 10px solid #ebebeb;
 }
-.pricing-table:hover{
+.pricing:hover{
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
     border-top-color: #007ee5;
 
@@ -292,6 +292,12 @@ header{
     color: #007ee5;
     line-height: 1.19;
 }
+.nav-pills {
+    
+    text-align: center;
+
+}
+
 /***************************** COMMON CSS  *********************************/
 
 .no--padding{
