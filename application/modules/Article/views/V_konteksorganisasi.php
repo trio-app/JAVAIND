@@ -10,16 +10,16 @@
                   <h3><span class="text--semi-bold">KONTEKS ORGANISASI ISO 9001:2015</span></h3>
               </header>
               <p>Dalam ISO 9001 : 2015 yang mengedepankan Manajemen Berbasis Risiko (Risk Based-Thinking), 
-                 Konteks Organisasi adalah salah satu klausul yang termasuk di dalam ISO 9001 : 2015, 
+                  <span style="color: #4286f4"><b>Konteks Organisasi</b></span> adalah salah satu klausul yang termasuk di dalam ISO 9001 : 2015, 
                  sebelum kita melanjutkan pembahasan ini kita terlebih dahulu memahami arti kata konteks 
                  organisasi sebagai berikut :
               </p>
               <p>
-                - Konteks adalah situasi yang ada hubungannya dengan suatu kejadian.
+                  - <span style="color: #4286f4"><b>Konteks</b></span> adalah situasi yang ada hubungannya dengan suatu kejadian.
                  <br>
-                - Organisasi adalah sekelompak orang yang saling bekerjasama untuk mencapai tujuan bersama.
+                 - <span style="color: #4286f4"><b>Organisasi</b></span> adalah sekelompak orang yang saling bekerjasama untuk mencapai tujuan bersama.
                  <br>
-                - Jadi Konteks Organisasi dapat diartikan sebagai situasi yang dapat mempengaruhi hasil dari kerjasama sekelompok orang untuk mencapai tujuan bersama.
+                 - Jadi <span style="color: #4286f4"><b>Konteks Organisasi</b></span> dapat diartikan sebagai situasi yang dapat mempengaruhi hasil dari kerjasama sekelompok orang untuk mencapai tujuan bersama.
               </p>
               <br>
               <p>
@@ -30,7 +30,7 @@
               </p>
               <br>
               <p>
-                  Di dalam ISO 9001 : 2015 sudah ditentukan pada klausul  4. tentang Konteks Organisasi :
+                  Di dalam ISO 9001 : 2015 sudah ditentukan pada klausul  4 tentang <span style="color: #4286f4"><b>Konteks Organisasi</b></span> :
               </p>
               <p>
                   <span style="color: #4286f4" class="text--light"><b>4.1. Memahami Organisasi dan Konteksnya</b></span>
