@@ -42,7 +42,6 @@
           <a class="navbar-brand" href="#">
             <img src="assets/images/Logo.png" alt="">
             <span class="text--bold">JAVA INDUSTRIAL</span></br>
-            <span class="text--bold">Operational Excellence Consulting Group</span>
           </a>
         </div>
 
