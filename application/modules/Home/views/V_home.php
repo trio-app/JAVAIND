@@ -329,10 +329,10 @@
           </div>
           <div>
             <div class="news-card">
-              <img src="<?php echo base_url(); ?>assets/images/po4.jpg" alt="" class="img-responsive max-width-100">
+              <img src="<?php echo base_url(); ?>assets/images/po8.jpg" alt="" class="img-responsive max-width-100">
               <div class="news-content">
                 <p><span class="category-name">Article</span></p>
-                <a href="<?php echo base_url('Article/perencanaan'); ?>"><p class="news-title">PERNCANAAN</p></a>
+                <a href="<?php echo base_url('Article/perencanaan'); ?>"><p class="news-title">PERENCANAAN</p></a>
               </div>
             </div>
           </div>
