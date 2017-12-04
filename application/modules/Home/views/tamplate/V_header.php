@@ -48,7 +48,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul role="navigation" class="nav navbar-nav navbar-right">
-            <li class="active"><a href="<?php echo base_url('Home'); ?>">HOME <span class="sr-only">(current)</span></a></li>
+            <li class="active"><a href="<?php echo base_url('Home'); ?>"data-toggle="tab" title="Home"><i class="glyphicon glyphicon-home"></i> <span class="sr-only">(current)</span></a></li>
             <li><a href="#about">ABOUT US</a></li>
             <li class="dropdown"><a href="#dropdown-menu" data-toggle="dropdown" class="dropdown-toggle">OUR SERVICES<b class="caret"></b></a>
                 <ul class="dropdown-menu">
