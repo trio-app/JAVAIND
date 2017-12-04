@@ -5,9 +5,8 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <h2 class="">Everything you need to deliver great mobile apps.</h2>
+              <h2 class="">ISO 9001:2015</h2>
               <p class="lead">Deliver native iOS, Android, and Windows apps using existing</p>
-              <a class="btn btn-default btn-theme btn-rounded-corner" href="#" role="button">Learn More</a>
             </div>
           </div>
         </div>
