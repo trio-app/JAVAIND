@@ -48,7 +48,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="#home">home <span class="sr-only">(current)</span></a></li>
+            <li class="active"><a href="#article">article <span class="sr-only">(current)</span></a></li>
             <li><a href="#about">about</a></li>
             <li><a href="#features">features</a></li>
             <li><a href="#testimonials">testimonials</a></li>
@@ -62,7 +62,7 @@
       </div><!-- /.container-fluid -->
     </nav>
     <!-- HOME -->
-    <section id="home" class="section jumbotron-section bg--position-center no-repeat bg-cover md-display-table" style="background-image:url(assets/images/header.png)">
+    <section id="article" class="section jumbotron-section bg--position-center no-repeat bg-cover md-display-table" style="background-image:url(assets/images/header.png)">
       <div class="jumbotron jumbotron-fluid bg-transparent md-display-table-cell md-vertical-middle">
         <div class="container">
           <div class="row">
@@ -245,57 +245,60 @@
 
     <!-- PRICING TABLE -->
     <section id="price" class="section bg-gray">
-      <div class="container pricing-wraper">
+      
 
         <header class="section-heading text-center">
-          <h3><span class="text--semi-bold">Get Pro &amp;</span> <span class="text--light">Discover more</span></h3>
+          <h3><span class="text--semi-bold">Articles &amp;</span> <span class="text--light">Events</span></h3>
         </header>
-        <div class="row pricing-row">
-          <div class="col-md-3 col-sm-6 no--padding">
-            <ul class="pricing-table">
-              <li class="header">Student</li>
-              <li class="price-tag"><span class="price"><sup>$</sup>199</span><span class="package-duration">monthly</span></li>
-              <li>10GB Storage</li>
-              <li>10 Emails</li>
-              <li>10 Domains</li>
-              <li>1GB Bandwidth</li>
-              <li class="footer"><a class="btn btn-default btn-theme btn-rounded-corner margin-top-bottom-50 btn-o" href="#" role="button">upgrade</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 col-sm-6 no--padding">
-            <ul class="pricing-table">
-              <li class="header">Pro</li>
-              <li class="price-tag"><span class="price"><sup>$</sup>199</span><span class="package-duration">monthly</span></li>
-              <li>10GB Storage</li>
-              <li>10 Emails</li>
-              <li>10 Domains</li>
-              <li>1GB Bandwidth</li>
-              <li class="footer"><a class="btn btn-default btn-theme btn-rounded-corner margin-top-bottom-50 btn-o" href="#" role="button">get started</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 col-sm-6 no--padding">
-            <ul class="pricing-table">
-              <li class="header">Business</li>
-              <li class="price-tag"><span class="price"><sup>$</sup>199</span><span class="package-duration">monthly</span></li>
-              <li>10GB Storage</li>
-              <li>10 Emails</li>
-              <li>10 Domains</li>
-              <li>1GB Bandwidth</li>
-              <li class="footer"><a class="btn btn-default btn-theme btn-rounded-corner margin-top-bottom-50" href="#" role="button">try free for 30 days</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 col-sm-6 no--padding">
-            <ul class="pricing-table">
-              <li class="header">Enterprise</li>
-              <li class="price-tag"><span class="price"><sup>$</sup>199</span><span class="package-duration">monthly</span></li>
-              <li>10GB Storage</li>
-              <li>10 Emails</li>
-              <li>10 Domains</li>
-              <li>1GB Bandwidth</li>
-              <li class="footer"><a class="btn btn-default btn-theme btn-rounded-corner margin-top-bottom-50 btn-o" href="#" role="button">upgrade</a></li>
-            </ul>
-          </div>
-        </div>
+                          
+
+                              <!--     <div class="row pricing-row">
+                                    
+                                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                                    <li class="nav-item">
+                                      <a class="nav-link active" id="pills-article-tab" data-toggle="pill" href="#pills-article" role="tab" aria-controls="pills-article" aria-selected="true">Articles</a>
+                                    </li>
+                                    <li class="nav-item">
+                                      <a class="nav-link" id="pills-event-tab" data-toggle="pill" href="#pills-event" role="tab" aria-controls="pills-event" aria-selected="false">Profile</a>
+                                    </li>
+                                    
+                                  </ul>
+<div class="tab-content" id="pills-tabContent">
+  <div class="tab-pane active" id="pills-article" role="tabpanel" aria-labelledby="pills-article-tab">
+      <div class="card-group">
+  <div class="card">
+    <img class="card-img-top" src="assets/images/art-01.jpg" width="239px" height="200px" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="assets/images/art-02.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+    </div>
+    
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="assets/images/art-03.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+    </div>
+    
+  </div>
+
+</div>
+
+  </div>
+  <div class="tab-pane " id="pills-event" role="tabpanel" aria-labelledby="pills-event-tab">...</div>
+</div>
+</div> -->
+
+
         <div class="row">
           <div class="col-md-6 col-sm-12 col-md-offset-3">
             <div class="section-sebheading text-center pricing-subheading">
