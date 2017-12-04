@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>DOLPHIN HTML5 TEMPLATE</title>
+    <title>JAVA INDUSTRIAL</title>
 
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -41,21 +41,32 @@
           </button>
           <a class="navbar-brand" href="#">
             <img src="assets/images/Logo.png" alt="">
-            <span class="text--bold">dolphin</span>
+            <span class="text--bold">JAVA INDUSTRIAL</span></br>
+            <span class="text--bold">Operational Excellence Consulting Group</span>
           </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="#home">home <span class="sr-only">(current)</span></a></li>
-            <li><a href="#about">about</a></li>
-            <li><a href="#features">features</a></li>
-            <li><a href="#testimonials">testimonials</a></li>
-            <li><a href="#price">price</a></li>
-            <li><a href="#clients">clients</a></li>
-            <li><a href="#blog">news</a></li>
-            <li><a href="#contact">contact</a></li>
+          <ul role="navigation" class="nav navbar-nav navbar-right">
+            <li class="active"><a href="#home">HOME <span class="sr-only">(current)</span></a></li>
+            <li><a href="#about">ABOUT US</a></li>
+            <li class="dropdown"><a href="#dropdown-menu" data-toggle="dropdown" class="dropdown-toggle">OUR SERVICES<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Management System</a></li>
+                    <li><a href="#">ISO 9001:2015</a></li>
+                    <li><a href="#">ISO 14001:2015</a></li>
+                    <li><a href="#">Operational Excellence</a></li>
+                    <li><a href="#">Warehouse Management System</a></li>
+                    <li><a href="#">Product Design</a></li>
+                    <li><a href="#">Feasibility Study</a></li>
+                    <li><a href="#">Leadership</a></li>
+                </ul>
+            </li>
+            <li><a href="#testimonials">KNOWLEDGE</a></li>
+            <li><a href="#price">NEWS & EVENT</a></li>
+            <li><a href="#clients">CAREERS</a></li>
+            <li><a href="#blog">CONTACT US</a></li>
             <li><a href="#" class="btn btn-icon btn-round"><span class="btn-icon-container"><i class="lnr lnr-download"></i></span></a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
