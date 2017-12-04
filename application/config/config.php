@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://' . $_SERVER['SERVER_NAME'] . ':' . $_SERVER['SERVER_PORT'] . '/WEB';
+$config['base_url'] = 'http://' . $_SERVER['SERVER_NAME'] . ':' . $_SERVER['SERVER_PORT'] . '/Github/JAVAIND';
 /*
 |--------------------------------------------------------------------------
 | Index File
@@ -34,7 +34,7 @@ $config['base_url'] = 'http://' . $_SERVER['SERVER_NAME'] . ':' . $_SERVER['SERV
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------

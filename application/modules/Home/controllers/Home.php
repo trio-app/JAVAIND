@@ -13,7 +13,12 @@ class Home extends MX_Controller{
     } */
     
     public function index(){
-        $this->load->view('V_home');
+        $data['base_url'] = base_url();
+        
+        $data['header'] = $this->load->view('Home/tamplate/V_header', $data, TRUE);
+        $data['footer'] = $this->load->view('Home/tamplate/V_footer', $data, TRUE);
+        
+        $this->load->view('V_home', $data);
     }
     
     
