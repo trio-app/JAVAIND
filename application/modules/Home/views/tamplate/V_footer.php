@@ -71,7 +71,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6">
+               <!-- <div class="col-md-6">
                   <div class="list-item-header">
                     Total Download Copy
                   </div>
@@ -84,7 +84,7 @@
                       <li>5</li>
                       <li>6</li>
                     </ul>
-                  </div>
+                  </div> -->
                   <div class="list-item-header">
                     LANGUAGE
                   </div>
