@@ -57,7 +57,6 @@ header{
 .navbar-brand .text--bold{
     font-weight: 650;
     color: #333333;
-
 }
 .navbar-brand .text--bold-small{
     color: #333333;
@@ -66,7 +65,9 @@ header{
 }
 small{
     font-size:10px ;
-    margin-left: 40px;
+    position: absolute;
+    top:45px ;
+    left:120px;
 }
 .navbar-brand .text--light{
     font-weight: 400;

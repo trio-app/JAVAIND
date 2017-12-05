@@ -5,6 +5,10 @@
             <div class="col-md-5">
               <div class="row">
                 <div class="col-md-6 col-sm-6">
+                  <div class="list-header">Subscribe to our newsletter</div>
+                  <div class="form-subscriber" style="overflow:hidden">
+                    
+                  </div>
                   <div class="list-item-header">
                     download
                   </div>
@@ -34,7 +38,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="list-item-header">
-                    contact
+                    contact Us
                   </div>
                   <div class="contact-details">
                     <div class="media">
@@ -96,6 +100,7 @@
                     <div class="col-sm-4 language-list">日本語</div>
                     <div class="col-sm-4 language-list">Español</div>
                   </div>
+
                 </div>
               </div>
             </div>
@@ -106,7 +111,7 @@
         <div class="container">
           <hr class="footer-devider">
           <div class="row">
-            <div class="col-md-5"><p class="copyright">Copyright © 2016 Unity Technologies</p></div>
+            <div class="col-md-5"><p class="copyright">© 2017 JAVA INDUSTRIAL. All rigths reserved.</p></div>
             <div class="col-md-5">
               <ul class="footer-menu">
                 <li><a href="">Legal</a></li>
