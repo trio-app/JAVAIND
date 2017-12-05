@@ -1,16 +1,17 @@
 <?php echo $header; ?>
-<br>
-<br>
-<br>
+
+<section id="features" class="section features">
+              <header>
+                  <h3>
+                      <center><span class="text--semi-bold">KEPEMIMPINAN ISO 9001:2015</span></center>
+                  </h3>
+              </header>
+</section>
 <div class="container">
         <div class="row">
           
             <div class="regular-content">
-              <header>
-                  <h3>
-                      <span class="text--semi-bold">KEPEMIMPINAN ISO 9001:2015</span>
-                  </h3>
-              </header>
+                <br>
                 <p>
                     Dari sejak dahulu ISO menjadikan kepemimpinan sebagai salah satu prinsip manajemen mutu yg melandasi persyaratan - persyaratan ISO 9001. Memang, suatu organisasi tanpa
                     adanya <span style="color: #4286f4"><b>pemimpin</b></span> tidak akan berjalan, dan <span style="color: #4286f4"><b>pemimpin</b></span> yang tidak memiliki jiwa <span style="color: #4286f4"><b>“kepemimpinan”</b></span> tidak akan mampu memberikan hasil yang diinginkan oleh organisasi itu sendiri. 

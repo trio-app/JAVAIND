@@ -1,14 +1,15 @@
 <?php echo $header; ?>
-<br>
-<br>
-<br>
+
+<section id="features" class="section features">
+              <header>
+                  <center><h3><span class="text--semi-bold">ISO 9001 : 2015 ( MANAJEMEN BERBASIS RISIKO )</span></h3></center>
+              </header>
+</section>
 <div class="container">
         <div class="row">
           
             <div class="regular-content">
-              <header>
-                  <h3><span class="text--semi-bold">ISO 9001 : 2015 ( MANAJEMEN BERBASIS RISIKO )</span></h3>
-              </header>
+              <br>
               <p>Yang berbeda dari ISO 9001 : 2015 adalah adanya pendekatan sistematis terhadap manajemen risiko, memang, pada standar sebelumnya yaitu ISO 9001 : 2008 juga sudah terdapat salah satu aspek dari manajemen risiko sebagaimana tertulis pada klausul 8.5.3 tindakan pencegahan yang bila dilihat isinya, memang mengatur salah satu prinsip manajemen risiko :
               </p>
                <br>
