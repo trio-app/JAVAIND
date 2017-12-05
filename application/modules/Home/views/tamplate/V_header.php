@@ -41,7 +41,7 @@
           </button>
           <a class="navbar-brand" href="#">
             <img src="<?php echo base_url(); ?>assets/images/Logo.png" alt="">
-            <span class="text--bold">JAVA INDUSTRIAL</span><span class="text--bold-small" >Operational Excellence Consulting Group</span>
+            <span class="text--bold" >JAVA INDUSTRIAL<br><small>Operational Excellence Consulting Group</small></span>
           </a>
         </div>
 
