@@ -50,7 +50,15 @@
           <ul role="navigation" class="nav navbar-nav navbar-right">
             <li class="active"><a href="<?php echo base_url('Home'); ?>" title="Home"><i class="glyphicon glyphicon-home"></i> <span class="sr-only">(current)</span></a></li>
             <li><a href="#about">ABOUT US</a></li>
-            <li class="dropdown"><a href="#dropdown-menu" data-toggle="dropdown" class="dropdown-toggle">OUR SERVICES<b class="caret"></b></a>
+            <li><a href="#testimonials">PARTNER</a></li>
+            <li><a href="#price">OUR CONSULTANT</a></li>
+            <li><a href="#clients">SERVICE</a></li>
+            <li><a href="#blog">CONTACT US</a></li>
+          </ul> 
+          <ul role="navigation" class="nav navbar-nav navbar-right">
+                <li><a href="">Management System</a></li>
+                <li><a href="">KNOWLEDGE</a></li>
+                <li class="dropdown"><a href="#dropdown-menu" data-toggle="dropdown" class="dropdown-toggle">OUR SERVICES<b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="#">Management System</a></li>
                     <li><a href="#">ISO 9001:2015</a></li>
@@ -62,11 +70,10 @@
                     <li><a href="#">Leadership</a></li>
                 </ul>
             </li>
-            <li><a href="#testimonials">KNOWLEDGE</a></li>
-            <li><a href="#price">NEWS & EVENT</a></li>
-            <li><a href="#clients">CAREERS</a></li>
-            <li><a href="#blog">CONTACT US</a></li>
-          </ul> 
+                <li><a href="#price">Operational Excellence</a></li>
+                <li><a href="#clients">Warehouse Management System</a></li>
+                <li><a href="#blog">Product Design</a></li>
+          </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
